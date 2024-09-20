@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <url>
+    <loc>https://www.dsasheets.online/</loc>
+    <lastmod>2024-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
+
+  <!-- Add more URLs in this format -->
+  <!-- Example pages -->
+  <url>
+    <loc>https://www.dsasheets.online/progress</loc>
+    <lastmod>2024-09-06</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  
+  <url>
+    <loc>https://www.dsasheets.online/sheets/apnacollege/topics</loc>
+    <lastmod>2024-09-06</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+</urlset>
